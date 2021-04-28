@@ -13,6 +13,7 @@ Then detect Text in the image using pytesseract
 You can download the weight file from [this](https://drive.google.com/file/d/1vXjIoRWY0aIpYfhj3TnPUGdmJoHnWaOc/ "this") link.
 
 ###Step to follow
+
 clone the repositery
 
 install all requirements from requirements.txt
